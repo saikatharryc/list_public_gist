@@ -1,0 +1,11 @@
+{
+  "name": "publi_gist_list",
+  "version": "1.0.0",
+  "description": "lists all the public gists, with github developer api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saikatharryc <saikatchakrabortty2@gmail.com> (saikat chakravortty)",
+  "license": "ISC"
+}
